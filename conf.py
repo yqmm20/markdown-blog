@@ -20,19 +20,19 @@ site_build_date = "2019-12-18T16:51+08:00"
 author = "tu-tu"
 email = "hi@imalan.cn"
 author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+description = "be all ears"
+key_words = ['Maverick', 'tu-tu', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
         "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
+        "url": "https://yqmm20.github.io/Blog-With-GitHub-Boilerplate/",
         "brief": "🏄‍ Go My Own Way."
     },
     {
         "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "url": "https://yqmm20.github.io/Blog-With-GitHub-Boilerplate/",
+        "brief": "tu-tu的主页。"
     }
 ]
 nav = [
@@ -56,17 +56,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/",
         "icon": "gi gi-weibo"
     }
 ]
