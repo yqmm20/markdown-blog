@@ -7,7 +7,7 @@
 
 ```
 ---
-layout: post<发表页面修改post为page>
+layout: post<发布文章用post,发布页面用page>
 title: <填写文章标题>
 slug: <填写文章在地址栏的地址>
 date: <填写文章发表日期时间>
