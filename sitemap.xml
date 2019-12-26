@@ -15,6 +15,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
         <loc>/markdown-blog/archives/None/</loc>
+        <lastmod>2019-12-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/markdown-blog/archives/None/</loc>
         <lastmod>2019-12-25</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
