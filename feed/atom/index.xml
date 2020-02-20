@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/markdown-blog/</id><title>markdown-blog</title><updated>2020-02-20T04:28:01.686719+08:06</updated><author><name>tu-tu</name><email>g@gmail.com</email></author><link href="/markdown-blog/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>${static_prefix}logo.png</logo><subtitle>be all ears</subtitle><entry><id>/markdown-blog/archives/2019-12-25-2034/</id><title>完成发帖</title><updated>2020-02-20T04:28:01.686845+00:00</updated><author><name>tu-tu</name><email>g@gmail.com</email><uri>https://yqmm20.github.io/markdown-blog/</uri></author><content>&lt;p&gt;搭建完成&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/markdown-blog/</id><title>markdown-blog</title><updated>2020-02-20T04:33:53.588692+08:06</updated><author><name>tu-tu</name><email>g@gmail.com</email></author><link href="/markdown-blog/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>${static_prefix}logo.png</logo><subtitle>be all ears</subtitle><entry><id>/markdown-blog/archives/2019-12-25-2034/</id><title>完成发帖</title><updated>2020-02-20T04:33:53.588828+00:00</updated><author><name>tu-tu</name><email>g@gmail.com</email><uri>https://yqmm20.github.io/markdown-blog/</uri></author><content>&lt;p&gt;搭建完成&lt;/p&gt;
 &lt;p&gt;发贴庆贺&lt;/p&gt;
 &lt;p&gt;&lt;figure class="pswp-item" style="flex: 64.99189627228525" data-width="802" data-height="617"&gt;&lt;img src="https://cdn.jsdelivr.net/gh/yqmm20/markdown-blog@gh-pages/archives/assets/108939b5538f68378b7be02924643621.png" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/markdown-blog/archives/2019-12-25-2034/" rel="alternate"/><published>2019-12-25T20:34:00+08:06</published></entry><entry><id>/markdown-blog/archives/2019-12-26-0001/</id><title>游戏代言的套路</title><updated>2020-02-20T04:28:01.686820+00:00</updated><author><name>tu-tu</name><email>g@gmail.com</email><uri>https://yqmm20.github.io/markdown-blog/</uri></author><content>&lt;p&gt;文章详细介绍了网游页游使用明星代言的套路,分别从明星/游戏商/用户角度分析了这一现象存在的原因.&lt;/p&gt;
+</content><link href="/markdown-blog/archives/2019-12-25-2034/" rel="alternate"/><published>2019-12-25T20:34:00+08:06</published></entry><entry><id>/markdown-blog/archives/2019-12-26-0001/</id><title>游戏代言的套路</title><updated>2020-02-20T04:33:53.588800+00:00</updated><author><name>tu-tu</name><email>g@gmail.com</email><uri>https://yqmm20.github.io/markdown-blog/</uri></author><content>&lt;p&gt;文章详细介绍了网游页游使用明星代言的套路,分别从明星/游戏商/用户角度分析了这一现象存在的原因.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;明星:来钱快,安全.&lt;/p&gt;
 &lt;/li&gt;
@@ -12,7 +12,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;相关链接:&lt;a href="http://36kr.com/p/5279260.html?ktm_source=feed"&gt;有头有脸的明星都在代言传奇游戏&lt;/a&gt;&lt;/p&gt;
-</content><link href="/markdown-blog/archives/2019-12-26-0001/" rel="alternate"/><published>2019-12-26T00:01:00+08:06</published></entry><entry><id>/markdown-blog/archives/2020-02-20-001/</id><title>手动升级微软新版edge</title><updated>2020-02-20T04:28:01.686774+00:00</updated><author><name>tu-tu</name><email>g@gmail.com</email><uri>https://yqmm20.github.io/markdown-blog/</uri></author><content>&lt;p&gt;方法：&lt;/p&gt;
+</content><link href="/markdown-blog/archives/2019-12-26-0001/" rel="alternate"/><published>2019-12-26T00:01:00+08:06</published></entry><entry><id>/markdown-blog/archives/2020-02-20-001/</id><title>手动升级微软新版edge</title><updated>2020-02-20T04:33:53.588749+00:00</updated><author><name>tu-tu</name><email>g@gmail.com</email><uri>https://yqmm20.github.io/markdown-blog/</uri></author><content>&lt;p&gt;方法：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;1.关闭自动升级，避免自动升级到最新版的 edge.&lt;br&gt;
 C:\Program Files\Microsoft\EdgeUpdate 里的 MicrosoftEdgeUpdate.exe 改一下名字即可.&lt;/p&gt;
@@ -20,8 +20,10 @@ C:\Program Files\Microsoft\EdgeUpdate 里的 MicrosoftEdgeUpdate.exe 改一下�
 &lt;li&gt;&lt;p&gt;2.到微软官方下载 79.xx 版本的 exe 文件，下载后不要双击 exe 文件，要使用压缩软件解压 79.xx.exe 文件&lt;br&gt;
 提取 msedg.7z 里面的全部文件，包括一个 79.XX 开头的文件夹，两个可执行文件 msedge.exe 和 msedge_proxy.exe.&lt;br&gt;
 复制到 C:\Program Files\Microsoft\Edge\Application 里面。&lt;br&gt;
-删除或者改名原有的 78.XX 开头的文件夹以及旧的 msedge.exe 和 msedge_proxy.exe.&lt;br&gt;
-如果你要保留旧版本的设置信息请保留 SetupMetrics 文件夹和 msedge.VisualElementsManifest.xml&lt;/p&gt;
+改名原有的 78.XX 开头的文件夹以及旧的 msedge.exe 和 msedge_proxy.exe.&lt;br&gt;
+如果你要保留旧版本的设置信息请保留 SetupMetrics 文件夹和 msedge.VisualElementsManifest.xml&lt;br&gt;
+测试新版本没问题的话可以删除刚才改名的3个旧文件
+--end--&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </content><link href="/markdown-blog/archives/2020-02-20-001/" rel="alternate"/><published>2020-02-20T00:00:00+08:06</published></entry></feed>
