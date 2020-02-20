@@ -24,4 +24,5 @@ C:\\Program Files\\Microsoft\\EdgeUpdate 里的 MicrosoftEdgeUpdate.exe 改一�
 改名原有的 78.XX 开头的文件夹以及旧的 msedge.exe 和 msedge\_proxy.exe.  
 如果你要保留旧版本的设置信息请保留 SetupMetrics 文件夹和 msedge.VisualElementsManifest.xml  
 测试新版本没问题的话可以删除刚才改名的3个旧文件
+
 --end--
